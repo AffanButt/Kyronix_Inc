@@ -74,7 +74,12 @@ body {
   right: -2rem;
   transform: rotate(180deg);
 }
+.logo img{
+  height : 60px;
+    width : 260px;
+    margin-top: 4px;
 
+}
 .row .btn {
   outline: none;
   border: none;
