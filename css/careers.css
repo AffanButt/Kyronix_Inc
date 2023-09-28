@@ -69,11 +69,16 @@ body{
     font-size: 3rem;
     display: none;
 }
+.logo {
 
+    height: 50px;
+    width: 300px;
+    margin-top: 5px;
+}
 .home{
     min-height: 70vh;
     width: 100vw;
-    background-image: url(../images/img3.jpg);
+    background-image: url(../images/kyronix\ dark\ blue.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
